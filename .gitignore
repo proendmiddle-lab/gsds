@@ -1,0 +1,6 @@
+.next/
+node_modules/
+.qodo/
+dist/
+build/
+.env
